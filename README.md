@@ -1,0 +1,2 @@
+# hellobruh
+welcome channel notification
